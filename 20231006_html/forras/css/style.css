@@ -1,0 +1,76 @@
+header {
+    background-position: center center;
+    height: 300px;
+    background-image: url('../img/hatterkep.jpg');
+    padding: 0;
+    background-repeat: no-repeat;
+}
+
+header h1 {
+    background-color: rgba(248, 248, 248, 0.75);
+    margin-top: 80px;
+    padding-left: 5rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(125, 20, 0);
+    font-size: 5vw;
+    font-weight: bold;
+    font-style: italic;
+}
+
+h2 {
+    color: #416917;
+    padding: 6px 0px;
+    font-variant: small-caps;
+    margin-top: 10px;
+}
+
+h3 {
+    font-weight: bold;
+    font-size: 150%;
+    letter-spacing: 1px;
+    margin-top: 10px;
+    text-align: center;
+    color: #894f3b;
+}
+
+p {
+    text-align: justify;
+    text-indent: 2%;
+}
+
+caption {
+    text-transform: uppercase;
+    caption-side: top;
+    text-align: center;
+    color:#894f3b;
+    font-weight: bold;
+}
+
+
+td, th {
+    text-align: center;
+}
+
+th {
+    text-transform: uppercase;
+}
+
+.navbar {
+    background-color: rgb(108, 175, 8);
+}
+
+.nav-link {
+    color:#416917;  
+    font-size: 1.5vw;
+}
+
+#buszke {
+    min-width: 150px;
+    max-width: 50%;
+}
+
+.szamok li {
+    list-style-type: square;
+    line-height: 200%;
+    list-style-image: url('../img/ikon.png');
+}
