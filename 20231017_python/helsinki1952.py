@@ -55,7 +55,7 @@ for adat in adatok:
 if torna > uszas:
     print("Torna sportágban szereztek több érmét.")
 elif torna < uszas:
-    print("Úzsás sportágban szereztek több érmét.")
+    print("Úszás sportágban szereztek több érmét.")
 else:
     print("Egyenlő volt az érmék száma.")
 
