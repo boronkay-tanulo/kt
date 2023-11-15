@@ -1,0 +1,107 @@
+rend	r_latin	család	cs_latin	faj	f_latin	max_cm	min_Celsius	max_Celsius
+Sokúszós csuka alakúak	(Polypteriformes)	Sokúszós csukafélék	(Polypteridae)	kígyófejû hal vagy afrikai sokúszós angolna	(Erpetoichthys calabaricus)	40	22	28
+pontyalakúak	(Cypriniformes)	pontyfélék	(Cyprinidae)	aranyhal, fátyolos aranyhal, gombafejû aranyhal	(Carassius auratus auratus)	30	21	26
+pontyalakúak	(Cypriniformes)	pontyfélék	(Cyprinidae)	bíborfejû díszmárna 	(Barbus nigrofasciatus)	12	18	26
+pontyalakúak	(Cypriniformes)	pontyfélék	(Cyprinidae)	karcsú díszmárna	(Barbus titteya)	15	22	25
+pontyalakúak	(Cypriniformes)	pontyfélék	(Cyprinidae)	rózsás díszmárna	(Barbus conchonius)	20	20	23
+pontyalakúak	(Cypriniformes)	pontyfélék	(Cyprinidae)	szumátrai díszmárna	(Barbus tetrazona)	11	20	26
+pontyalakúak	(Cypriniformes)	pontyfélék	(Cyprinidae)	ékfoltos razbóra	(Rasbora heteromorpha)	7	18	26
+pontyalakúak	(Cypriniformes)	pontyfélék	(Cyprinidae)	háromsávos razbóra	(Rasbora borapetensis)	8	21	26
+pontyalakúak	(Cypriniformes)	pontyfélék	(Cyprinidae)	zebradánió	(Danio rerio)	10	20	26
+pontyalakúak	(Cypriniformes)	pontyfélék	(Cyprinidae)	leopárd dánió	(Danio frankei)	10	20	25
+pontyalakúak	(Cypriniformes)	pontyfélék	(Cyprinidae)	színjátszó dánió	(Danio albolineatus)	10	20	22
+pontyalakúak	(Cypriniformes)	pontyfélék	(Cyprinidae)	pettyesúszójú dánió	(Danio nigrofasciatus)	10	18	22
+pontyalakúak	(Cypriniformes)	pontyfélék	(Cyprinidae)	kék dánió	(Danio kerri)	20	18	23
+pontyalakúak	(Cypriniformes)	pontyfélék	(Cyprinidae)	malabári dánió	(Devario malabaricus)	20	20	25
+pontyalakúak	(Cypriniformes)	pontyfélék	(Cyprinidae)	gyöngy dánió	(Danio margaritatus)	20	18	24
+pontyalakúak	(Cypriniformes)	pontyfélék	(Cyprinidae)	cápamárna	(Balantiocheilos melanopterus)	25	22	26
+pontyalakúak	(Cypriniformes)	pontyfélék	(Cyprinidae)	Stendhal-hal	(Epalzeorhynchos bicolor)	15	21	22
+pontyalakúak	(Cypriniformes)	algaevõ pontyfélék	(Gyrinocheilidae)	moszatevõ márna	(Gyrinocheilus aymonieri)	12	20	24
+pontyalakúak	(Cypriniformes)	kövicsíkfélék	(Balitoridae)	tányérhasú algaevõ	(Pseudogastromyzon cheni)	15	19	23
+pontyalakúak	(Cypriniformes)	csíkfélék	(Cobitidae)	öves díszcsík	(Botia macrachantus)	25	18	22
+pontyalakúak	(Cypriniformes)	csíkfélék	(Cobitidae)	párduccsík	(Pangio kuhlii)	20	22	23
+pontylazacalakúak	(Characiformes)	pontylazacfélék	(Characidae)	törpe üveglazac	(Prionobrama filigera)	6	18	24
+pontylazacalakúak	(Characiformes)	pontylazacfélék	(Characidae)	fekete neonhal	(Hyphessobrycon herbertaxelrodi)	8	19	25
+pontylazacalakúak	(Characiformes)	pontylazacfélék	(Characidae)	citromlazac	(Hyphessobrycon pulchripinnis)	16	19	24
+pontylazacalakúak	(Characiformes)	pontylazacfélék	(Characidae)	fekete fantomlazac	(Hyphessobrycon megalopterus)	10	22	23
+pontylazacalakúak	(Characiformes)	pontylazacfélék	(Characidae)	vörös fantomlazac	Hyphessobrycon sweglesi)	12	20	23
+pontylazacalakúak	(Characiformes)	pontylazacfélék	(Characidae)	serpalazac	(Hyphessobrycon serpae)	15	19	26
+pontylazacalakúak	(Characiformes)	pontylazacfélék	(Characidae)	vörösfoltos pontylazac	(Hyphessobrycon erythrostigma)	15	20	26
+pontylazacalakúak	(Characiformes)	pontylazacfélék	(Characidae)	lángvörös pontylazac	(Hyphessobrycon flammeus)	15	18	25
+pontylazacalakúak	(Characiformes)	pontylazacfélék	(Characidae)	neonhal	(Paracheirodon innesi)	7	21	26
+pontylazacalakúak	(Characiformes)	pontylazacfélék	(Characidae)	vörös neonhal	(Paracheirodon axelrodi)	8	22	25
+pontylazacalakúak	(Characiformes)	pontylazacfélék	(Characidae)	gyémántlazac	(Moenkhausia pittieri)	15	22	22
+pontylazacalakúak	(Characiformes)	pontylazacfélék	(Characidae)	fekete tetra	(Gymnocorymbus ternetzi)	10	18	22
+pontylazacalakúak	(Characiformes)	pontylazacfélék	(Characidae)	rézlazac	(Hasemania nana)	10	21	24
+pontylazacalakúak	(Characiformes)	pontylazacfélék	(Characidae)	vörössávos pontylazac	(Hemigrammus erythrozonus)	12	19	23
+pontylazacalakúak	(Characiformes)	pontylazacfélék	(Characidae)	parázsszemû pontylazac	(Hemigrammus ocellifer)	12	22	25
+pontylazacalakúak	(Characiformes)	pontylazacfélék	(Characidae)	aranyfoltos pontylazac	(Hemigrammus pulcher)	15	21	23
+pontylazacalakúak	(Characiformes)	pontylazacfélék	(Characidae)	vörösorrú pontylazac	(Hemigrammus rhodostomus)	15	18	26
+pontylazacalakúak	(Characiformes)	pontylazacfélék	(Characidae)	rézszínû pontylazac	(Hemigrammus rodwayi)	15	20	23
+pontylazacalakúak	(Characiformes)	pontylazacfélék	(Characidae)	ferdénúszó pontylazac	(Thayeria boehlkei)	12	22	22
+pontylazacalakúak	(Characiformes)	Alestidae	(Alestidae)	kongólazac	(Phenacogrammus interruptus)	18	19	26
+pontylazacalakúak	(Characiformes)	szekercelazacok	(Gasteropelecidae)	törpe baltahasúlazac	(Carnegiella marthae)	6	22	24
+pontylazacalakúak	(Characiformes)	szekercelazacok	(Gasteropelecidae)	Myers-baltahasúlazac	(Carnegiella myersi)	8	22	24
+pontylazacalakúak	(Characiformes)	szekercelazacok	(Gasteropelecidae)	csíkos baltahasúlazac	(Carnegiella strigata)	8		
+pontylazacalakúak	(Characiformes)	Lebiasinidae	(Lebiasinidae)	fecskendezõ pontylazac	(Copella arnoldi)	4		
+pontylazacalakúak	(Characiformes)	Lebiasinidae	(Lebiasinidae)	díszes törpeszájú hal	(Nannostomus beckfordi)	8	22	26
+pontylazacalakúak	(Characiformes)	Lebiasinidae	(Lebiasinidae)	lovacskalazac	(Nannostomus eques)	5		
+kalászhalalakúak	(Atheriniformes)	Melanotaeniidae	(Melanotaeniidae)	Boeseman kalászhala	(Melanotaenia boesemani)	10	20	23
+kalászhalalakúak	(Atheriniformes)	Telmatherinidae	(Telmatherinidae)	celebeszi vitorláshal	(Marosatherina ladigesi)	8	20	24
+kalászhalalakúak	(Atheriniformes)	Bedotiidae	(Bedotiidae)	madagaszkári kalászhal	(Bedotia geayi)	11	20	25
+sügéralakúak	(Perciformes)	gurámifélék	(Osphronemidae)	sziámi harcoshal	(Betta splendens)	8	18	28
+sügéralakúak	(Perciformes)	gurámifélék	(Osphronemidae)	kínai paradicsomhal	(Macropodus opercularis)	13	19	22
+sügéralakúak	(Perciformes)	gurámifélék	(Osphronemidae)	ajakos gurámi	(Colisa labiosa)	25	20	28
+sügéralakúak	(Perciformes)	gurámifélék	(Osphronemidae)	mézgurámi	(Colisa chuna)	15	22	22
+sügéralakúak	(Perciformes)	gurámifélék	(Osphronemidae)	törpe gurámi	(Colisa lalia)	8	21	26
+sügéralakúak	(Perciformes)	gurámifélék	(Osphronemidae)	gyöngygurámi	(Trichogaster leeri)	15	22	22
+sügéralakúak	(Perciformes)	gurámifélék	(Osphronemidae)	holdfénygurámi	(Trichogaster microlepis)	12	21	22
+sügéralakúak	(Perciformes)	gurámifélék	(Osphronemidae)	szalagos gurámi	(Trichogaster pectoralis)	12	20	26
+sügéralakúak	(Perciformes)	gurámifélék	(Osphronemidae)	kék gurámi	(Trichogaster trichopterus)	15	20	22
+sügéralakúak	(Perciformes)	Helostomatidae	(Helostomatidae)	csókos gurámi	(Helostoma temminckii)	25	19	25
+sügéralakúak	(Perciformes)	Bölcsõszájúhal-félék	(Cichlidae)	diszkoszhal	(Symphysodon discus)	28	20	24
+sügéralakúak	(Perciformes)	Bölcsõszájúhal-félék	(Cichlidae)	barna diszkoszhal	(Symphysodon aequifasciata)	20	19	22
+sügéralakúak	(Perciformes)	Bölcsõszájúhal-félék	(Cichlidae)	gyöngyházfényû törpesügér	(Apistogramma agassizii)	5	20	27
+sügéralakúak	(Perciformes)	Bölcsõszájúhal-félék	(Cichlidae)	bíborsügér	(Hemichromis bimaculatus)	33	21	27
+sügéralakúak	(Perciformes)	Bölcsõszájúhal-félék	(Cichlidae)	nicaraguai bölcsõszájúhal	(Hypsophrys nicaraguensis )	30	21	25
+sügéralakúak	(Perciformes)	Bölcsõszájúhal-félék	(Cichlidae)	kockás torpedósügér	(Julidochromis marlieri)	22	22	24
+sügéralakúak	(Perciformes)	Bölcsõszájúhal-félék	(Cichlidae)	aranysügér	(Labidochromis caeruleus)	16	20	24
+sügéralakúak	(Perciformes)	Bölcsõszájúhal-félék	(Cichlidae)	pillangó törpesügér	(Mikrogeophagus ramirezi)	5	22	22
+sügéralakúak	(Perciformes)	Bölcsõszájúhal-félék	(Cichlidae)	császársügér	(Aulonocara stuartgranti)	18	22	26
+sügéralakúak	(Perciformes)	Bölcsõszájúhal-félék	(Cichlidae)	meggyhasú sügér	(Pelvicachromis pulcher)	25	20	25
+sügéralakúak	(Perciformes)	Bölcsõszájúhal-félék	(Cichlidae)	Tanganyika-tavi citromsügér	(Neolamprologus leleupi)	12	19	28
+sügéralakúak	(Perciformes)	Bölcsõszájúhal-félék	(Cichlidae)	zebra ceruzasügér	(Neolamprologus cylindricus)	10	19	28
+sügéralakúak	(Perciformes)	Bölcsõszájúhal-félék	(Cichlidae)	dél-amerikai tüskéssügér	(Polycentrus schomburgki)	12	22	28
+sügéralakúak	(Perciformes)	Bölcsõszájúhal-félék	(Cichlidae)	türkiz aranysügér	(Pseudotropheus auratus)	15	20	26
+sügéralakúak	(Perciformes)	Bölcsõszájúhal-félék	(Cichlidae)	vitorláshal	(Pterophyllum scalare)	20		
+sügéralakúak	(Perciformes)	Bölcsõszájúhal-félék	(Cichlidae)	vöröstorkú bölcsõszájúhal	(Thorichthys meeki)	24		
+sügéralakúak	(Perciformes)	Bölcsõszájúhal-félék	(Cichlidae)	kazuárfejû sügér	(Steatocranus casuarius)	20		
+sügéralakúak	(Perciformes)	Bölcsõszájúhal-félék	(Cichlidae)	karcsú ormányossügér	(Labeotropheus trewavasae)	18		
+sügéralakúak	(Perciformes)	Bölcsõszájúhal-félék	(Cichlidae)	zebrasávos sügér	(Amatitlania nigrofasciata)	18		
+sügéralakúak	(Perciformes)	Bölcsõszájúhal-félék	(Cichlidae)	vörösszemû bölcsõszájúhal	(Australoheros facetus)	22		
+sügéralakúak	(Perciformes)	Üvegsügérek	(Ambassidae)	indiai üvegsügér	(Ambassis lala)	4	22	24
+fogaspontyalakúak	(Cyprinodontiformes)	elevenszülõ fogaspontyfélék	(Poeciliidae)	mexikói kardfarkúhal	(Xiphophorus helleri)	15	17	25
+fogaspontyalakúak	(Cyprinodontiformes)	elevenszülõ fogaspontyfélék	(Poeciliidae)	platti	(Xiphophorus maculatus)	9	17	25
+fogaspontyalakúak	(Cyprinodontiformes)	elevenszülõ fogaspontyfélék	(Poeciliidae)	szivárványos guppi	(Poecilia reticulata)	6	17	25
+fogaspontyalakúak	(Cyprinodontiformes)	elevenszülõ fogaspontyfélék	(Poeciliidae)	feketesávos limia	(Poecilia nigrofasciata)	12	17	25
+fogaspontyalakúak	(Cyprinodontiformes)	elevenszülõ fogaspontyfélék	(Poeciliidae)	yucatáni fogasponty	(Poecilia sphenops)	10	20	26
+fogaspontyalakúak	(Cyprinodontiformes)	elevenszülõ fogaspontyfélék	(Poeciliidae)	fénylõszemû priapella	(Priapella intermedia)	12	17	25
+harcsaalakúak	(Siluriformes)	harcsafélék	(Siluridae)	indiai üvegharcsa	(Kryptopterus bicirrhis)	7	22	26
+harcsaalakúak	(Siluriformes)	óriásharcsa-félék	(Pangasiidae)	cápaharcsa	(Pangasius hypophtalmus)	20	20	24
+harcsaalakúak	(Siluriformes)	Mochokidae	(Mochokidae)	dominóharcsa	(Synodontis multipunctatus)	10		
+harcsaalakúak	(Siluriformes)	Tepsifejû harcsa-félék	(Loricariidae)	Algaevõ harcsák	(Ancistrus sp.)	20	18	28
+harcsaalakúak	(Siluriformes)	Tepsifejû harcsa-félék	(Loricariidae)	Boszorkányharcsa	(Loricaria filamentosa)	9		
+harcsaalakúak	(Siluriformes)	Tepsifejû harcsa-félék	(Loricariidae)	Kék vértesharcsa	(Ancistrus dolichopterus)	12		
+harcsaalakúak	(Siluriformes)	Tepsifejû harcsa-félék	(Loricariidae)	Óriás algaevõ	(Hypostomus punctatus)	33		
+harcsaalakúak	(Siluriformes)	Tepsifejû harcsa-félék	(Loricariidae)	Tepsifejû harcsa	(Dysichthys coracoideus)	10		
+harcsaalakúak	(Siluriformes)	Tepsifejû harcsa-félék	(Loricariidae)	Tûharcsa	(Farlowella acus)	12		
+harcsaalakúak	(Siluriformes)	páncélosharcsafélék	(Callichthyidae)	kékpajzsos páncélosharcsa	(Corydoras aeneus)	8		
+harcsaalakúak	(Siluriformes)	páncélosharcsafélék	(Callichthyidae)	Juli páncélosharcsája	(Corydoras julii)	8		
+harcsaalakúak	(Siluriformes)	Adolfo harcsaalakúak	(Siluriformes)	Adolfo páncélosharcsája	(Corydoras adolfoi)	11		
+harcsaalakúak	(Siluriformes)	páncélosharcsafélék	(Callichthyidae)	foltos páncélosharcsa	(Corydoras paleatus)	8	18	24
+harcsaalakúak	(Siluriformes)	páncélosharcsafélék	(Callichthyidae)	pöttyös páncélosharcsa	(Corydoras sterbai)	8	18	24
+harcsaalakúak	(Siluriformes)	páncélosharcsafélék	(Callichthyidae)	panda páncélosharcsa	(Corydoras panda)	11	18	24
+harcsaalakúak	(Siluriformes)	páncélosharcsafélék	(Callichthyidae)	tarka páncélosharcsa	(Hoplosternum littorale)	9	18	24
+harcsaalakúak	(Siluriformes)	páncélosharcsafélék	(Callichthyidae)	rövidtestû páncélosharcsa	(Corydoras splendens)	6	18	24
+gömbhalalakúak	(Tetraodontiformes)	gömbhalfélék	(Tetraodontidae)	zöld gömbhal	(Tetraodon fluviatilis)	12		
+makrahalalakúak	(Beloniformes)	Hemiramphidae	(Hemiramphidae)	félcsõrös csuka	(Dermogenys pusillus)	9	23	30

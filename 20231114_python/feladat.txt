@@ -1,0 +1,7 @@
+Az "akvariumi_halak.txt" nyersanyagot használjuk.
+Készítsen Python alkalmazást, mely:
+1. Beolvassa a nyersanyagot, és sorait eltárolja egy struktúrában, vagy osztályban, melynek neve: "adatok"!
+2. Az alkalmazás a fajok magyar neveit jelenítse meg! Egy nevet választ a felhasználó.
+2/b. A felhasználó által kiválaszott faj latin nevét, és három adatát jelenítse meg!
+3. Az alkalmazás megjeleníti a rendeket. A felhasználó választ egyet.
+3/b. A kiválaszott rendhez tartozó összes családot és fajt jelenítse meg, minden adatukkal együtt!
