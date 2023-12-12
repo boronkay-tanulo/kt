@@ -1,0 +1,2 @@
+A jarat1.txt, a jarat2.txt és a jarat3.txt állományok tartalmát halmazként tárold el!
+Írd ki a képernyőre, hogy melyik járatról melyikre és hol lehet átszállni!

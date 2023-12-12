@@ -1,0 +1,1 @@
+Készíts egy Python alklamazást, melyben egy függvény egy mondatot három egyenlő hosszúságú részre vág: E, K, V, majd visszaadja a mondatot a következő sorrend alkalmazásával: K, V, E!

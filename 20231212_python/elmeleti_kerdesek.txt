@@ -1,0 +1,4 @@
+1. Mi a "self" szó jelentése és szerepe egy osztály konstruktorában?
+A "self" szó magát, a létrehozott/létrehozandó objektumot jelenti. A konstruktorban tudunk az objektumnak tulajdonságokat adni, a self segítségével.
+2. Mi az __iadd__ feladata?
+A "+=" műveletet implementálja egy objektum számára, az "inline add" rövidítése.
