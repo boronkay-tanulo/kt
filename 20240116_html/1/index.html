@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Eseménykezelés</title>
+	<meta charset="utf-8">
+</head>
+<body>
+	<h1>A pontos idő <span id="ido" style="color: #00A000"></h1>
+</body>
+<script>
+	let valtozo = setInterval(idomero, 1000);
+	function idomero()
+	{
+		let d = new Date();
+		let t = d.toLocaleTimeString();
+		document.getElementById("ido").innerHTML = t;
+	}
+</script>
+</html>

@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+	<title>Analóg kijelzős óra</title>
+	<meta charset="utf-8">
+	<meta name="analog_clock" content="canvas_animation">
+</head>
+<body>
+	<table style="width: 500px;">
+		<tr>
+			<td><h1>Analóg kijelzős óra</h1></td>
+			<td style="text-align: right;"><h1 id="aktualis_ido">Aktuális idő</h1></td>
+		</tr>
+	</table>
+	<canvas id="myCanvas" width="500" height="500" style="border: 1px solid grey;">A böngésző nem támogatja a "canvas"-t!</canvas>
+</body>
+<script>
+	let myClock = {
+		timer: function() {
+			let d = new Date();
+			let t = d.toLocaleTimeString();
+			document.getElementById("aktualis_ido").innerHTML = t;
+			// óramutatók értékeinek beállítása
+			myClock.mutatok(d.getHours(), d.getMinutes(), d.getSeconds());
+		},
+		// az analóg számlap inicializálása
+		init: function() {
+			x = context.canvas.width;
+			y = context.canvas.height;
+			r = 0.6;
+			if (x < y) { r = x / 2 * r; }
+			else { r = y / 2 * r; }
+			clw = r * 0.2;
+			let colors = ["red", "green", "blue", "yellow", "orange", "magenta", "grey", "lightgrey", "darkgrey", "brown", "cyan", "pink"];
+			for (let i = 0; i < 12; i++) {
+				context.beginPath();
+				context.arc(x / 2, y / 2, r, i * Math.PI / 6, (i + 1) * Math.PI / 6);
+				context.lineWidth = clw;
+				context.strokeStyle = colors[i];
+				context.stroke();
+			}
+			context.beginPath();
+			let fontSize = clw * 1.25;
+			context.font = "normal " + fontSize + "pt Times";
+			context.fillStyle = "grey";
+			context.fillText("12", x * 0.5 - fontSize * 2 / 3, y * 0.5 - r - clw);
+			context.fillText("3", x * 0.5 + r + clw, y * 0.5 + fontSize / 2);
+			context.fillText("6", x * 0.5 - fontSize / 2, y * 0.5 + r + fontSize + clw);
+			context.fillText("9", x * 0.5 - r - clw - fontSize * 2 / 3, y * 0.5 + fontSize / 2);
+			context.stroke();
+		},
+		mutatok: function(h, m, s) {
+			// a korábbi mutató állás törlése
+			context.beginPath();
+			context.strokeStyle = "white";
+			context.fillStyle = "white";
+			context.arc(x / 2, y / 2, r - clw, 0, Math.PI * 2);
+			context.fill();
+			context.stroke();
+			this.mutato(m, 6, "blue", 1, 60);
+			this.mutato(h % 12, 6, "black", 0.75, 12);
+			this.mutato(s, 2, "grey", 1, 60);
+			// a mutatók feleti kis kör
+			context.beginPath();
+			context.strokeStyle = "darkgrey";
+			context.fillStyle = "lightgrey";
+			context.arc(x / 2, y / 2, r * 0.1, 0, Math.PI * 2);
+			context.fill();
+			context.stroke();
+		},
+		mutato: function(ertek, width, color, long, scale) {
+			/* ertek: a mutatóhoz rendelt érték
+			   width: a mutató szélessége pixelben
+			   color: a mutató színe
+			   long: a mutató hossza, a sugár százalékában
+			   scale: a számlap felosztása */
+			context.beginPath();
+			context.lineWidth = width;
+			context.strokeStyle = color;
+			let alfa = ertek / scale * Math.PI * 2 - Math.PI / 2;
+			context.moveTo(x / 2, y / 2);
+			context.lineTo(x / 2 + (r - clw) * long * Math.cos(alfa), y / 2 + (r - clw) * long * Math.sin(alfa));
+			context.stroke();
+		}
+	};
+	
+	let myVar = setInterval(myClock.timer, 1000);
+	let canvas = document.getElementById("myCanvas");
+	let context = canvas.getContext("2d");
+	myClock.init();
+</script>
+</html>
