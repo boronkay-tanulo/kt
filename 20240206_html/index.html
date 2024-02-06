@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>mittudomén</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        .tarolo {
+            margin: auto;
+            padding: 10px;
+            text-align: center;
+            display: flex;
+        }
+        .kep {
+            width: 1%;
+            display: inline-block;
+            margin-left: auto;
+            margin-right: auto;
+            flex: 33.33%;
+        }
+        img {
+        	width: 100%;
+        }
+    </style>
+</head>
+<body onload="inicializal()">
+    <div class="tarolo">
+        <div class="kep"><img src="kepek/1.png"></div>
+        <div class="kep"><img src="kepek/2.png"></div>
+        <div class="kep"><img src="kepek/3.png"></div>
+        <div class="kep"><img src="kepek/4.png"></div>
+        <div class="kep"><img src="kepek/5.png"></div>
+        <div class="kep"><img src="kepek/6.png"></div>
+        <div class="kep"><img src="kepek/7.png"></div>
+        <div class="kep"><img src="kepek/8.png"></div>
+        <div class="kep"><img src="kepek/9.png"></div>
+    </div>
+</body>
+<script>
+    function inicializal()
+    {
+        const zenek = [
+            new Audio("zenek/Bad to the Bone.mp3"),
+            new Audio("zenek/Ballada-004.mp3.mp3"),
+            new Audio("zenek/Die Antwoord - I Fink U Freeky.mp3"),
+            new Audio("zenek/Drowning Pool - Bodies.mp3"),
+            new Audio("zenek/Elmúltak az ünnepek.mp3"),
+            new Audio("zenek/Európa Kiadó.mp3"),
+            new Audio("zenek/Fatboy Slim - Ya Mama.mp3"),
+            new Audio("zenek/for KING & COUNTRY - Little Drummer Boy.mp3"),
+            new Audio("zenek/intifada.mp3")
+        ];
+        const kepek = document.getElementsByClassName("kep");
+        for (let i = 0, l = kepek.length; i < l; i++)
+        {
+            const [zene, kep] = [zenek[i], kepek[i]];
+            kep.addEventListener("click", (e) => {
+            	console.log(e);
+                for (const zene2 of zenek)
+                {
+                    if (!zene2.paused && zene !== zene2)
+                    {
+                        zene2.pause();
+                        zene2.currentTime = 0.0;
+                    }
+                }
+                zene.play();
+            });
+        }
+    }
+</script>
+</html>
