@@ -1,0 +1,51 @@
+
+header{    
+    background-position: center center;
+    height: 350px;
+    background-image: url("../img/hatterkep.jpg");
+}
+
+h1{
+    background-color: rgba(248, 248, 248, 0.75);
+    margin-top: 80px;
+    padding-left: 11rem; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #3f6217;
+    font-style: italic;
+}
+
+h2{
+    color: #3f6217;
+    border-left: 3px solid #3f6217;
+    font-variant-caps: small-caps;
+    margin: 6px 16px;    
+}
+
+h3{    
+    font-weight: bold;
+    color: #894f3b;
+    text-align: center;
+    font-size: 1.2em;
+    letter-spacing: 1px;  
+}
+
+td,th{
+    text-align: center;
+}
+
+.navbar{
+    background-color: rgb(108, 175, 8);
+}
+
+p{
+    text-indent: 14px;
+}
+
+ul{
+    list-style-image: url("../img/tree_icon.png");
+}
+
+li{
+    float: left;
+    margin-left: 35px;
+}
