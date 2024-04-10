@@ -1,0 +1,8 @@
+testvér	0-15
+unokatestvér	0-25
+nem közvetlen unokatestvér	0-25
+nagybáty	10-40
+nagynéni	10-40
+anya	18-43
+apa	18-58
+nagyszülő	40-

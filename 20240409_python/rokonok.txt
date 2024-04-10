@@ -1,0 +1,3 @@
+Aszódi Áron;Eger;2006.05.01.;Aszódi Barna;Eger;1999.05.28.;unokatestvér;nem közvetlen unokatestvér;nagybáty;apa
+Kardos Orsolya;Szob;1958.04.11.;Kardos Károly;Szob;2006.02.11.;nagyszülő
+Kiss Őrs;Vác;2006.03.23.;Kiss Őrs;Vác;1983.08.12.;unokatestvér;nem közvetlen unokatestvér;nagybáty;apa;
