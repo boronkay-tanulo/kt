@@ -1,0 +1,6 @@
+Bootstrap weblap
+A tetején egy lebegő menü 4 db menüponttal. Amenüpontok közül az első három könyvjelző, a negyedik a validációs oldalra mutat, ahol a weblapot validáltad.
+A menü alatt slideshow, mely 1 másodpercenként vált képet. A képekből 3 db van, 1500x300-as a méretük, és mivel a téma: AUTÓK, ezért autókat ábrázolnak.
+A képek megjelenése torzításmentes legyen, a vetítés a weblap betöltésével induljon!
+A weblap három belső pontján tárgyald ki a témakör Téged érdeklő részét! Az első pont kettő képet tartalmazzon, melyek balra és jobbra vannak zárva, köztük van a tárgyalás.
+A második pont 3 képet tartalmazzon, fekvő helyzetben, és alattuk legyen a tárgyalás. A harmadik pont 4 képet tartalmazzon, és felettük és alattuk legyen a tárgyalás!

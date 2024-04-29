@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="hu">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Autós weblap</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="style.css" type="text/css">
+</head>
+<header>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+            aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse cim" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto fejlec">
+                <li class="nav-item"><a class="nav-link text-white" href="#wartburg">Wartburg</a></li>
+                <li class="nav-item"><a class="nav-link text-white" href="#trabant">Trabant</a></li>
+                <li class="nav-item"><a class="nav-link text-white" href="#lada">Lada</a></li>
+                <li class="nav-item"><a class="nav-link text-white" href="https://validator.w3.org/" target="_blank">Validáció</a></li>
+            </ul>
+        </div>
+    </nav>
+</header>
+<body>
+    <div id="carouselExampleSlidesOnly" class="carousel slide igen" data-ride="carousel" data-interval="1000">
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <img src="wartburg.jpg" class="d-block w-100" alt="Autó 1">
+            </div>
+            <div class="carousel-item">
+                <img src="trabant.jpg" class="d-block w-100" alt="Autó 2">
+            </div>
+            <div class="carousel-item">
+                <img src="lada.jpg" class="d-block w-100" alt="Autó 3">
+            </div>
+        </div>
+    </div>
+    <section id="wartburg" class="container bg-white">
+        <div class="row">
+            <h2 class="text-center w-100 p-3">Wartburg</h2>
+            <div class="col-12 col-md-3">
+                <img src="wart1.jpg" class="img-fluid mt-2 kocsi">
+            </div>
+            <div class="col-12 col-md-6 text-center">
+                <p class="text-justify">
+                    Az első autót 1898-ban készítette el az Automobilwerk Eisenach, és Wartburgwagen volt a neve.
+                    Volt benne egy kétüléses nád szék, négy sárvédő, két fényszóró, és egy kéthengeres, 765-cc motor.
+                    A maximum sebessége 40km/h volt.
+                    A nevet 1904-ben ejtették, de 1930-ban egy rövid időre újra megjelent a BMW 3/15 DA-3 Wartburg, ami a BMW első sport autója volt.
+                </p>
+            </div>
+            <div class="col-12 col-md-3">
+                <img src="wart2.jpg" class="img-fluid mt-2 kocsi seged">
+            </div>
+        </div>
+    </section>
+    <br>
+    <section id="trabant" class="container bg-white igen">
+        <div class="row">
+            <h2 class="text-center w-100 p-3">Trabant</h2>
+            <div class="col-12 col-md-4">
+                <img src="trabi1.jpg" class="img-fluid mt-2 kocsi">
+            </div>
+            <div class="col-12 col-md-4 text-center">
+                <img src="trabi2.jpg" class="img-fluid mt-2 kocsi">
+            </div>
+            <div class="col-12 col-md-4">
+                <img src="trabi3.jpg" class="img-fluid mt-2 kocsi seged">
+            </div>
+        </div>
+        <p>Az első Trabantok 1957-ben látták meg a napvilágot. Egy relatíve fejlett autó volt az első kerék kormányzásával, és a felfüggesztésével.
+        De a legjobb része a motorja volt.
+        Az 1950-es évek végére a Nyugat-Európai autók már modern négyütemű motorral voltak felszerelvem míg a Trabantokban csak elavult kétütemű volt.
+        A Trabant a többi, ekkori autóval szemben elöl volt a motor, és első kerék kormányzású is volt.</p>
+    </section>
+    <section id="lada" class="container bg-white">
+        <div class="row">
+            <h2 class="text-center w-100 p-3">Lada</h2>
+            <div><p class="kozep">Az AvtoVAZ autókészítő egy megegyezésből született a Fiat és a szovjet Vneshtorg között.
+            Az első hivatalos megegyezést 1965-ben írták alá. 1966-ban a szovjet autógyártás minisztere, Alexander Tarasov és a Fiat elnöke, 
+            Vittorio Valletta aláírták a tudományos és technikai együttműködést a Fiat és a szovjet minisztérium közt.</p></div>
+            <div class="col-12 col-md-3">
+                <img src="lada1.jpg" class="img-fluid mt-2 kocsi">
+            </div>
+            <div class="col-12 col-md-3">
+                <img src="lada2.jpg" class="img-fluid mt-2 kocsi">
+            </div>
+            <div class="col-12 col-md-3">
+                <img src="lada3.jpg" class="img-fluid mt-2 kocsi">
+            </div>
+            <div class="col-12 col-md-3">
+                <img src="lada4.jpg" class="img-fluid mt-2 kocsi">
+            </div>
+            <div><p class="kozep">A cég 1970 kezdte el gyártani a VAZ-2101 modelleket, ami egy egyenetlenebb változata volt a Fiat 124-es szedánnak.
+            Az autóra nehezebb acél lemezeket, és megerősített elemeket, ami megbízhatóbbá tette az egyenetlen utakon és a kemény telekben.</p></div>
+        </div>
+    </section>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+
+</html>
