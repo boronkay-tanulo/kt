@@ -1,0 +1,45 @@
+﻿.fixed-top {
+    background-color: rgba(76, 0, 255, 0.714);
+    height: 25vh;
+}
+
+body {
+    background-color: rgb(169, 161, 161);
+    overflow: hidden;
+}
+
+.scrollable {
+    margin-top: 25vh;
+    height: 75vh;
+    overflow-y: scroll;
+}
+
+.carousel-item {
+    height: 15vh;
+}
+
+.carousel-item img {
+    max-height: 15vh;
+    max-width: 15vh;
+    margin: auto;
+}
+
+.navbar {
+    background-image: linear-gradient(to right, blue, black);
+    color: white;
+}
+
+.navbar-brand {
+	margin-left: 35%;
+}
+
+.popup {
+    display: none;
+}
+
+.nav-item:hover .popup {
+    display: block;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+}

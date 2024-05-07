@@ -1,0 +1,36 @@
+/*body {
+    width: 100vw;
+    height: 100vh;
+    background: linear-gradient(180deg, blue 25%, darkgrey 0%);
+}*/
+/*
+#tarolo {
+    display: block;
+}*/
+/*
+#a {
+    width: 100vw;
+    height: 25vh;
+    background-color: blue;
+}
+*//*
+#b {
+    width: 100vw;
+    height: 75vh;
+    background-color: darkgray;
+}*/
+.fixed-top {
+    background-color: blue;
+    height: 25vh;
+}
+
+body {
+    background-color: grey;
+    overflow: hidden;
+}
+
+.scrollable {
+    margin-top: 25vh;
+    overflow-y: scroll;
+    height: 75vh;
+}

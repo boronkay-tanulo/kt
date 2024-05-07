@@ -1,0 +1,24 @@
+.felirat {
+    font-weight: bold;
+}
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    /*max-width: 70%;
+    margin-left: auto;
+    margin-right: auto;*/
+    background-color: rgb(255, 240, 212);
+}
+
+hr {
+    border-top: 3px dashed green;
+}
+
+.cim {
+    font-weight: bold;
+    text-align: center;
+}
+
+p {
+    text-align: justify;
+}
